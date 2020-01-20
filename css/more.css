@@ -28,10 +28,11 @@
 .more .more__title {
   opacity: 0.6;
   margin-bottom: 20px;
+  font-size: 12px;
 }
 
 .suggestion .suggestion__title {
-  font-size: 12px;
+  font-size: 14px;
   margin-top: 15px;
 }
 .suggestion .suggestion__icon {
